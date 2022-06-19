@@ -1,0 +1,39 @@
+_repo: Sur-la-route-de-Palmyre_68307
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+creator:
+  author:
+    agent_name: Henry-Bordeaux, Paule
+    gutenberg_agent_id: '54709'
+    url: http://www.gutenberg.org/2009/agents/54709
+description: ''
+gutenberg_issued: '2022-06-13'
+identifiers:
+  gutenberg: '68307'
+language: fr
+pgterms:marc904: https://catalog.hathitrust.org/Record/010645756
+pgterms:marc905: 20220607085315henryborde
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: France :Plon-Nourrit et cie,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sur la route de Palmyre
+url: http://www.gutenberg.org/ebooks/68307
