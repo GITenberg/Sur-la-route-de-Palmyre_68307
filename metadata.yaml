@@ -13,12 +13,17 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Paul_Bourget
     - https://en.wikipedia.org/wiki/Paul_Bourget
+covers:
+- cover_type: archival
+  image_path: 68307-h/images/palmyre_cover.jpg
 creator:
   author:
     agent_name: Henry-Bordeaux, Paule
     gutenberg_agent_id: '54709'
     url: http://www.gutenberg.org/2009/agents/54709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68307#Sur-la-route-de-Palmyre
 gutenberg_issued: '2022-06-13'
 identifiers:
   gutenberg: '68307'
